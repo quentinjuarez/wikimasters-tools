@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Price Tools for WikiMasters",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Average card prices, collection value estimate and sell and bid shortcuts on WikiMasters. Unofficial, runs locally.",
+    "description": "Short description for the Chrome Web Store"
+  }
+}

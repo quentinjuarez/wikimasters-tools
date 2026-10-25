@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Outils de prix pour WikiMasters",
+    "description": "Nom de l'extension"
+  },
+  "extDescription": {
+    "message": "Prix moyens des cartes, valeur estimée de ta collection et raccourcis de vente et d'enchère sur WikiMasters. Non officiel.",
+    "description": "Description courte du Chrome Web Store"
+  }
+}
