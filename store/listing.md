@@ -6,23 +6,22 @@ Tout ce qu'il faut coller dans le tableau de bord du Chrome Web Store.
 
 | Champ | Valeur |
 |---|---|
-| Nom (fr) | Outils de prix pour WikiMasters |
-| Nom (en) | Price Tools for WikiMasters |
+| Nom | WikiMasters - Prix moyen et outils |
 | Catégorie | Fun |
-| Langue par défaut | Français |
+| Distribution | France et pays francophones, visibilité publique, gratuite |
+| Langue | Français (fiche unique) |
 | Page d'accueil | https://github.com/quentinjuarez/wikimasters-tools |
 | Support | https://github.com/quentinjuarez/wikimasters-tools/issues |
 | Politique de confidentialité | https://quentinjuarez.github.io/wikimasters-tools/privacy.html (GitHub Pages, dossier `docs`) |
 
 ## Description courte (132 caractères maximum)
 
-fr (122) : Prix moyens des cartes, valeur estimée de ta collection et raccourcis de vente et d'enchère sur WikiMasters. Non officiel.
+Prix moyens des cartes, valeur estimée de ta collection et raccourcis de vente et d'enchère sur WikiMasters. Non officiel.
 
-en (115) : Average card prices, collection value estimate and sell and bid shortcuts on WikiMasters. Unofficial, runs locally.
 
-## Description détaillée (fr)
+## Description détaillée
 
-Outils de prix pour WikiMasters ajoute à wiki-masters.com ce qui manque pour estimer et vendre ses cartes sans quitter la page.
+WikiMasters - Prix moyen et outils ajoute à wiki-masters.com ce qui manque pour estimer et vendre ses cartes sans quitter la page.
 
 Cette extension est indépendante : elle n'est ni éditée, ni approuvée, ni parrainée par WikiMasters.
 
@@ -45,32 +44,6 @@ Confidentialité
 
 - Aucune donnée n'est envoyée à l'auteur ni à un tiers. Les prix, ta collection et tes réglages restent dans ton navigateur.
 - L'extension ne parle qu'à www.wiki-masters.com, avec ta session déjà ouverte. Aucun mot de passe n'est lu.
-
-## Description détaillée (en)
-
-Price Tools for WikiMasters adds what is missing on wiki-masters.com to estimate and sell your cards without leaving the page.
-
-This extension is independent: it is not published, endorsed or sponsored by WikiMasters.
-
-What you get
-
-- The average price of every card, shown right on the card in your collection, the market, auctions, packs and trades. A computed price is kept: it is never recomputed on its own, one click on the price refreshes it.
-- The estimated value of your collection, with rarity, tag and text filters, and a breakdown by rarity.
-- A "Prix décroissant" (price, descending) option added to your collection sort, working with the site's own filters.
-- A Sell button on every card, using the amount and duration you set once.
-- A Bid button on market listings that proposes the minimum bid.
-- Your collection filters remembered from one visit to the next.
-- Keyboard shortcuts for packs: up arrow to open, down arrow to continue, left and right arrows to move between cards.
-
-Respect for the site
-
-- Prices are loaded one at a time, at a pace that adapts to the site's limits, with an automatic pause when the site asks to slow down.
-- An action (sale, bid, opening) only happens when you click. The extension never plays for you, and if the site asks for an anti-bot check, you pass it yourself.
-
-Privacy
-
-- No data is sent to the author or to any third party. Prices, your collection and your settings stay in your browser.
-- The extension only talks to www.wiki-masters.com, using your existing session. No password is read.
 
 ## Onglet Confidentialité
 

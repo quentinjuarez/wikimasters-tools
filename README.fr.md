@@ -1,4 +1,4 @@
-# Outils de prix pour WikiMasters
+# WikiMasters - Prix moyen et outils
 
 [English](README.md)
 

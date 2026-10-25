@@ -1,4 +1,4 @@
-# Price Tools for WikiMasters
+# WikiMasters - average prices and tools
 
 [Français](README.fr.md)
 

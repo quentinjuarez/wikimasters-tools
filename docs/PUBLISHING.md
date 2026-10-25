@@ -10,9 +10,9 @@
 1. `npm run package` runs the tests, then builds `dist/wikimasters-price-tools-<version>.zip` (manifest, `_locales`, `icons`, `src`).
 2. Check the package: unzip it, open `chrome://extensions`, enable developer mode, load the folder unpacked, then use the site while logged in.
 3. In the dashboard, create a new item and upload the zip.
-4. Store listing tab: paste the texts from [`store/listing.md`](../store/listing.md) (French by default, add English), pick the Fun category, upload `icons/icon-128.png`, the four screenshots and the two promo images from `store/screenshots/`.
+4. Store listing tab: paste the texts from [`store/listing.md`](../store/listing.md) (French only), pick the Fun category, upload `icons/icon-128.png`, the four screenshots and the two promo images from `store/screenshots/`.
 5. Privacy tab: single purpose, permission justifications, "no remote code", no data collected, the three certifications, the privacy policy URL.
-6. Distribution tab: visibility (unlisted works for a first trial) and regions.
+6. Distribution tab: public visibility, free, regions limited to France and French-speaking countries.
 7. Test instructions: paste the reviewer paragraph from `store/listing.md`.
 8. Submit for review.
 
